@@ -1,0 +1,1 @@
+MyFrame frame = new MyFrame();
